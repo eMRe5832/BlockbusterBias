@@ -1,4 +1,4 @@
-This repository belongs to the paper tittle with "Exploring potential biases towards blockbuster items in ranking-based recommendations" published at "Data Mining and Knowledge Discover" journal of Springer. 
+This repository includes the source code of the paper, which is tittled with "Exploring potential biases towards blockbuster items in ranking-based recommendations" published at "Data Mining and Knowledge Discover" journal of Springer. 
 
 
 Initial Step
